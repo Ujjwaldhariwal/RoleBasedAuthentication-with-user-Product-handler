@@ -41,7 +41,7 @@ Install dependencies: npm install.
 Start the React application: npm start.
 Access Application:
 
-Open your browser and visit http://localhost:3000.
+Open your browser and visit http://localhost:8080.
 Contributors
 Ujjwal Dhariwal
 Bard
